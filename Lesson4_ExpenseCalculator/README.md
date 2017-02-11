@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Calvin Dominguez-Lay)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we learn the JavaScript programming Fundamentals)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://calvin137.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Declaring variables)
+2. (Using Functions)
+3. (parseFloat converting a string to a float)
